@@ -63,6 +63,7 @@
         android:layout_weight="1"
         android:importantForAutofill="no"
         android:inputType="textMultiLine"
+        android:minHeight="48dp"
         tools:ignore="LabelFor" />
 
     <Button
